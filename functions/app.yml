@@ -1,0 +1,9 @@
+runtime: python37
+
+env_variables:
+  ACCESS_TOKEN: "EAAfeApg4a0MBAC9ZCYt2JrdOmkQqq9xkuQsiZCEZCoLUDAPsovA6Hoxs7vJurfBvKz8qYQmfZB7jnBU67TGnZCQBYpGZAwk3ZB6EiUoDwqBFJe0O255rVWFlLHzpvw0PEzsKgrPIZCoZBzmZBWmUpwL3VgDLNwSyTJfODSjJdHqoXaLwZDZD"
+  GOOGLE_APPLICATION_CREDENTIALS: "../barter-economy.json"
+
+handlers:
+        - url: /.*
+          script: auto

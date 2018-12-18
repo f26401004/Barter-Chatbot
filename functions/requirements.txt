@@ -1,0 +1,7 @@
+# File: requeirements.txt
+firebase-admin
+transitions
+numpy
+pygraphviz
+flask
+requests
